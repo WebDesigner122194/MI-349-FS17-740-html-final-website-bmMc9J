@@ -1,0 +1,27 @@
+.background {
+	color: orange;
+}
+.circle {
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+  background-color: #ff0000;
+	text-align: center;
+	/* width and height can be anything, as long as they're equal */
+}
+.black{
+  background-color: black;
+}
+
+.headings {
+	text-align: center;
+	color: grey;
+}
+
+
+.spacing {
+	padding-top: 2%;
+}
+.txtwhite{
+  color: white;
+}
